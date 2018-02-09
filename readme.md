@@ -14,4 +14,4 @@ QUESTIONS/COMMENTS
 
 
  ![Kijiji Pharmacy](assets/img/kijiji_phar.png "Optional title")
- ![Kijiji Pharmacy](assets/img/Add_patient.png "Optional title")
+ ![Add Patient](assets/img/add_patient.png "Optional title")
