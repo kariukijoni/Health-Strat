@@ -32,7 +32,7 @@
             <button class="btn btn-success" onclick="reload_table()"><i class="glyphicon glyphicon-refresh"></i> Refresh</button>
             <br />
             <br />
-            <table id="table" class="table table-striped table-bordered" cellspacing="0" width="100%">
+            <table id="table" class="table table-striped table-bordered table-responsive" cellspacing="0" width="100%">
                 <thead>
                     <tr>
                         <th>Name</th>
