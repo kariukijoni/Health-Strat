@@ -10,7 +10,8 @@ INSTALLATION
 
 QUESTIONS/COMMENTS
 
-    If you have any questions the fastest way to get results is by visiting my mail kariukjoni@gmail.com
+    If you have any questions the fastest way to get results is by visiting my mail **kariukjoni@gmail.com**
 
 
  ![Kijiji Pharmacy](assets/img/kijiji_phar.png "Optional title")
+ ![Kijiji Pharmacy](assets/img/Add_patient.png "Optional title")
