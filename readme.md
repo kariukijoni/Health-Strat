@@ -3,7 +3,7 @@
  ![Kijiji Pharmacy](assets/img/kijiji_phar.png "Optional title")
  ![Add Patient](assets/img/add_patient.png "Optional title")
  
- ###################
+###################
 What is CodeIgniter
 ###################
 
@@ -19,16 +19,8 @@ for a given task.
 Release Information
 *******************
 
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<https://codeigniter.com/download>`_ page.
+This repo contains in-development code for future releases.
 
-**************************
-Changelog and New Features
-**************************
-
-You can find a list of all changes for each release in the `user
-guide change log <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/changelog.rst>`_.
 
 *******************
 Server Requirements
@@ -63,7 +55,7 @@ License
 *******
 
 Please see the `license
-agreement <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.rst>`_.
+agreement <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.md>`_.
 
 *********
 Resources
